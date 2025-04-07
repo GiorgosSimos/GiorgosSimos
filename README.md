@@ -5,7 +5,7 @@
 🔧 **Tech Stack**
 - **Languages**: Java, HTML, CSS, SQL
 - **Frameworks**: Spring Boot, Thymeleaf
-- **Databases**:  MySQL, SQLite, Firebase Realtime Database
+- **Databases**: SQLite, MySQL, Firebase Realtime Database, PostgreSQL
 - **ORM**: Hibernate (JPA)
 - **Tools**: Git, Maven, IntelliJ IDEA, Android Studio, VS Code
 
