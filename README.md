@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Giorgos Simos!
 
-🎓 Undergraduate studies in Management. After over a decade in Public Sector Management, I'm now pursuing an MSc in Informatics and transitioning into tech — driven by a passion for practical, impactful software development.
+🎓 Undergraduate studies in Management. After over a decade in Public Sector Management, I'm now pursuing an MSc in Informatics and transitioning into tech — driven by a passion for practical and impactful software development.
 
 🔧 **Tech Stack**
 - **Languages**: Java, HTML, CSS, SQL
