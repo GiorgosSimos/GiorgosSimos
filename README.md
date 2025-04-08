@@ -21,7 +21,7 @@ Working on my MSc Dissertation:
 - 🩺 [HippocratesJournal](https://github.com/GiorgosSimos/MedicalIncidentRecordingApp): Android app to log and track medical incidents using Firebase.
 - 🎟️ [Vistaseat.com](https://github.com/GiorgosSimos/Ticketing-Web-App-Vistaseat.com): Spring Boot web app for booking tickets to events like concerts and movies.
 
-🧠 **Interests**
+💡 **Interests**
 - Software engineering & architecture  
 - Web and mobile development  
 - Clean code & intuitive UX  
